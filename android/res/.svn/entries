@@ -1,0 +1,82 @@
+10
+
+dir
+26
+http://open-3d-viewer.googlecode.com/svn/trunk/android/res
+http://open-3d-viewer.googlecode.com/svn
+
+
+
+2012-01-09T19:38:59.683950Z
+10
+thakis@chromium.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+fe7f5c22-f230-7008-2349-9cf9ba93e31a
+
+drawable-240dpi
+dir
+
+drawable
+dir
+
+drawable-160dpi
+dir
+
+anim
+dir
+
+drawable-nodpi
+dir
+
+menu-xlarge-v11
+dir
+
+raw
+dir
+
+values
+dir
+
+xml
+dir
+
+layout-xlarge-v11
+dir
+
+drawable-hdpi
+dir
+
+menu
+dir
+
+values-v11
+dir
+
+drawable-ldpi
+dir
+
+drawable-mdpi
+dir
+
+layout
+dir
+
+drawable-240dpi-v9
+dir
+
+drawable-160dpi-v9
+dir
+

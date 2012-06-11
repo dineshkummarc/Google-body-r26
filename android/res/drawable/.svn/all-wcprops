@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/10/trunk/android/res/drawable
+END
+ic_menu_nervous.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/10/trunk/android/res/drawable/ic_menu_nervous.xml
+END
+ic_menu_heart.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/10/trunk/android/res/drawable/ic_menu_heart.xml
+END
+ic_menu_skeleton.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/10/trunk/android/res/drawable/ic_menu_skeleton.xml
+END
+ic_menu_skin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/10/trunk/android/res/drawable/ic_menu_skin.xml
+END
+header_bar_button.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/10/trunk/android/res/drawable/header_bar_button.xml
+END
+ic_menu_organs.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/10/trunk/android/res/drawable/ic_menu_organs.xml
+END
+ic_menu_muscles.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/10/trunk/android/res/drawable/ic_menu_muscles.xml
+END
+header_bar_button_pressed.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/10/trunk/android/res/drawable/header_bar_button_pressed.xml
+END
+textfield_search.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/10/trunk/android/res/drawable/textfield_search.xml
+END
+header_bar_button_focused.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/10/trunk/android/res/drawable/header_bar_button_focused.xml
+END

@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/10/trunk/android/src/com/google/android/apps/body
+END
+Layers.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/10/trunk/android/src/com/google/android/apps/body/Layers.java
+END
+Interpolant.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/10/trunk/android/src/com/google/android/apps/body/Interpolant.java
+END
+BodyTosDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/10/trunk/android/src/com/google/android/apps/body/BodyTosDialog.java
+END
+FP.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/10/trunk/android/src/com/google/android/apps/body/FP.java
+END
+Base.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/10/trunk/android/src/com/google/android/apps/body/Base.java
+END
+BodyActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/10/trunk/android/src/com/google/android/apps/body/BodyActivity.java
+END
+QuickactionBackgroundDrawable.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/10/trunk/android/src/com/google/android/apps/body/QuickactionBackgroundDrawable.java
+END
+Render.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/10/trunk/android/src/com/google/android/apps/body/Render.java
+END
+Label.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/10/trunk/android/src/com/google/android/apps/body/Label.java
+END
+Select.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/10/trunk/android/src/com/google/android/apps/body/Select.java
+END
+BodyGLSurfaceView.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/10/trunk/android/src/com/google/android/apps/body/BodyGLSurfaceView.java
+END
+QuickactionPopupWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/10/trunk/android/src/com/google/android/apps/body/QuickactionPopupWindow.java
+END
+LayersLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/10/trunk/android/src/com/google/android/apps/body/LayersLoader.java
+END
+BodyOpenGLRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/10/trunk/android/src/com/google/android/apps/body/BodyOpenGLRenderer.java
+END
+BodySearchProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/10/trunk/android/src/com/google/android/apps/body/BodySearchProvider.java
+END
+Navigate.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/10/trunk/android/src/com/google/android/apps/body/Navigate.java
+END
+BodyJni.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/10/trunk/android/src/com/google/android/apps/body/BodyJni.java
+END

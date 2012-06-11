@@ -1,0 +1,23 @@
+cow_body
+	surface_layer
+	skeletal_layer
+	organs_layer
+	circulatory_system_layer
+	nervous_system_layer
+
+surface_layer
+	body
+
+skeletal_layer
+	skeletal
+
+organs_layer
+	digestive_system
+	respiratory_system
+	urinary_reproductive_system
+
+circulatory_system_layer
+	circulatory_system
+
+nervous_system_layer
+	brain_cranial_nerves

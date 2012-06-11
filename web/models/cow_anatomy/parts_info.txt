@@ -1,0 +1,80 @@
+# Parts
+
+body
+	id: 5001
+	type: part
+	display_name_en_us: hide, hooves, and tail
+
+brain_cranial_nerves
+	id: 5002
+	type: part
+	display_name_en_us: brain and cranial nerves and eyeballs
+	synonyms_en_us: brain, cranial nerves, eyeballs
+
+digestive_system
+	id: 5003
+	type: part
+
+circulatory_system
+	id: 5004
+	type: part
+
+respiratory_system
+	id: 5005
+	type: part
+
+skeletal
+	id: 5006
+	type: part
+	display_name_en_us: skeleton
+
+urinary_reproductive_system
+	id: 5007
+	type: part
+	display_name_en_us: urinary and reproductive systems
+	synonyms_en_us: reproductive system, urinary system
+
+# Layers
+
+surface_layer
+	id: 10
+	type: group
+	display_name_en_us: surface layer
+	layer: yes
+	hidden: yes
+
+skeletal_layer
+	id: 11
+	type: group
+	display_name_en_us: skeletal layer
+	synonyms_en_us: bones
+	layer: yes
+	hidden: yes
+
+organs_layer
+	id: 12
+	type: group
+	layer: yes
+	display_name_en_us: organs layer
+	hidden: yes
+
+circulatory_system_layer
+	id: 13
+	type: group
+	display_name_en_us: circulatory system layer
+	layer: yes
+	hidden: yes
+
+nervous_system_layer
+	id: 14
+	type: group
+	display_name_en_us: nervous_system_layer
+	layer: yes
+	hidden: yes
+
+# Groups
+
+cow_body
+	id: 1
+	type: group
+	hidden: yes
